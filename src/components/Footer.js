@@ -39,7 +39,7 @@ const Footer=(price)=> {
 
             <span className="links">
               <a
-                href="https://portfolio-nishant.vercel.app/"
+                href="https://nishantmishra.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
